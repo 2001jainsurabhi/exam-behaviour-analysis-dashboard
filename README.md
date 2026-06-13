@@ -104,13 +104,9 @@ The following steps were performed:
 * MCQ questions dominate examination activity (**95.29%**).
 * Option A was the most selected response.
 
-### Dashboard Screenshot
+## Dashboard Screenshot
 
-```markdown
 ![Executive Summary](Page1_Executive_Summary.png)
-```
-
----
 
 ## Page 2: Candidate Behaviour Analysis
 
