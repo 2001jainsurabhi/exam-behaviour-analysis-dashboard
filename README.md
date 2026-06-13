@@ -1,6 +1,6 @@
-# 📊 Exam Behaviour Analysis Dashboard
+# Exam Behaviour Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of the **PRODIOSLABS Data Analyst Assignment**.
 
@@ -10,7 +10,7 @@ The analysis was performed using **PostgreSQL** for data exploration and **Power
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 * Analyze candidate interaction patterns.
 * Identify section-wise engagement levels.
@@ -22,7 +22,7 @@ The analysis was performed using **PostgreSQL** for data exploration and **Power
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 * PostgreSQL
 * SQL
@@ -33,7 +33,7 @@ The analysis was performed using **PostgreSQL** for data exploration and **Power
 
 ---
 
-# 📂 Dataset Information
+# Dataset Information
 
 | Metric           | Value              |
 | ---------------- | ------------------ |
@@ -45,7 +45,7 @@ The analysis was performed using **PostgreSQL** for data exploration and **Power
 
 ---
 
-# ⚠️ Dataset Limitations
+# Dataset Limitations
 
 The following limitations were considered during the analysis:
 
@@ -56,7 +56,7 @@ The following limitations were considered during the analysis:
 
 ---
 
-# 🔄 Data Processing & Transformation
+# Data Processing & Transformation
 
 The following steps were performed:
 
@@ -78,7 +78,7 @@ The following steps were performed:
 
 ---
 
-# 📈 Dashboard Pages
+# Dashboard Pages
 
 ## Page 1: Executive Summary
 
@@ -176,7 +176,7 @@ The following steps were performed:
 
 ---
 
-# 📊 Key Findings
+# Key Findings
 
 * Auto Save events account for **90.73%** of all records.
 * English usage accounts for **75.63%** of interactions.
@@ -188,7 +188,7 @@ The following steps were performed:
 
 ---
 
-# 💡 Recommendations
+# Recommendations
 
 1. Focus behavioural analysis on review-related activities instead of Auto Save events.
 2. Investigate Section 1 to understand increased review behaviour.
@@ -197,7 +197,7 @@ The following steps were performed:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 exam-behaviour-analysis-dashboard
@@ -222,7 +222,7 @@ exam-behaviour-analysis-dashboard
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Surbhi Jain**
 
