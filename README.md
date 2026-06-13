@@ -107,7 +107,7 @@ The following steps were performed:
 ### Dashboard Screenshot
 
 ```markdown
-![Executive Summary](Screenshots/Page1_Executive_Summary.png)
+![Executive Summary](Page1_Executive_Summary.png)
 ```
 
 ---
