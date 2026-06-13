@@ -132,13 +132,9 @@ The following steps were performed:
 * Review actions were concentrated in Section 1.
 * Candidates revisited a significant number of marked questions.
 
-### Dashboard Screenshot
+## Dashboard Screenshot
 
-```markdown
-![Candidate Behaviour Analysis](Screenshots/Page2_Candidate_Behaviour.png)
-```
-
----
+![Executive Summary](Page2_Candidate_Behaviour.png)
 
 ## Page 3: Time & Data Quality Analysis
 
@@ -164,13 +160,9 @@ The following steps were performed:
 * No missing values were found in language or question type fields.
 * Overall data quality was strong.
 
-### Dashboard Screenshot
+## Dashboard Screenshot
 
-```markdown
-![Time and Data Quality Analysis](Screenshots/Page3_Time_Data_Quality.png)
-```
-
----
+![Executive Summary](Page3_Time_Data_Quality.png)
 
 # Key Findings
 
